@@ -20,6 +20,7 @@ requires-python = ">=3.7, <3.12"
 [project.optional-dependencies]
 develop = [
   'python_project_skeleton[test]',
+  'commitizen',
   'ipykernel',
   'pre-commit',
   'python-lsp-ruff',
@@ -33,6 +34,14 @@ test = [
 
 [project.urls]
 Homepage = "https://github.com/MArpogaus/minimal-python-project-skeleton"  # TODO: Change project homepage
+
+[tool.commitizen]
+major_version_zero = true
+name = "cz_conventional_commits"
+tag_format = "v$version"
+update_changelog_on_bump = true
+version_provider = "scm"
+version_scheme = "pep440"
 
 [tool.ruff]
 indent-width = 4
