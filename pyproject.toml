@@ -19,7 +19,7 @@ requires-python = ">=3.7, <3.12"
 
 [project.optional-dependencies]
 develop = [
-  'python_project_skeleton[test]',
+  'minimal_python_project_skeleton[test]',  # TODO: Change package name
   'commitizen',
   'ipykernel',
   'pre-commit',
