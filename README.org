@@ -31,6 +31,7 @@ This folder structure should act as a simple starting point for your next python
 ├── .github
 │   └── workflows
 │       ├── pre-commit.yaml
+│       ├── release.yaml
 │       └── test.yaml
 ├── .gitignore
 ├── .pre-commit-config.yaml
@@ -40,13 +41,14 @@ This folder structure should act as a simple starting point for your next python
 ├── README.org
 ├── pyproject.toml
 ├── src
-│   └── python_project_skeleton
-│       └── __init__.py
+│   └── __init__.py
 └── test
     └── test_func.py
 
-6 directories, 11 files
+5 directories, 12 files
 #+end_src
+
+#+RESULTS:
 
 It contains just the minimum to get you started with a ready configured GitHub actions for automated [linting](https://github.com/MArpogaus/minimal-python-project-skeleton/blob/main/.github/workflows/pre-commit.yaml), [testing](https://github.com/MArpogaus/minimal-python-project-skeleton/blob/main/.github/workflows/test.yaml), and [releasing](https://github.com/MArpogaus/minimal-python-project-skeleton/blob/main/.github/workflows/release.yaml) on PiPy.
 

@@ -13,16 +13,16 @@
 
 # Minimal Python Project Skeleton
 
-1.  [About The Project](#org7412b7d)
-2.  [Getting Started](#org6b6d8e8)
-    1.  [Installation](#org21da8c1)
-3.  [Contributing](#org19ccf8c)
-4.  [License](#org0045bae)
-5.  [Contact](#org7761778)
-6.  [Acknowledgments](#org588cc56)
+1.  [About The Project](#org1b5ca0b)
+2.  [Getting Started](#org915b25a)
+    1.  [Installation](#orgf73ca0a)
+3.  [Contributing](#orgcae31e8)
+4.  [License](#org236d2b4)
+5.  [Contact](#org901b7c6)
+6.  [Acknowledgments](#org935ff24)
 
 
-<a id="org7412b7d"></a>
+<a id="org1b5ca0b"></a>
 
 ## About The Project
 
@@ -42,17 +42,16 @@ This folder structure should act as a simple starting point for your next python
     ├── README.org
     ├── pyproject.toml
     ├── src
-    │   └── minimal_python_project_skeleton
-    │       └── __init__.py
+    │   └── __init__.py
     └── test
         └── test_func.py
 
-    6 directories, 12 files
+    5 directories, 12 files
 
 It contains just the minimum to get you started with a ready configured GitHub actions for automated [linting](<https://github.com/MArpogaus/minimal-python-project-skeleton/blob/main/.github/workflows/pre-commit.yaml>), [testing](<https://github.com/MArpogaus/minimal-python-project-skeleton/blob/main/.github/workflows/test.yaml>), and [releasing](<https://github.com/MArpogaus/minimal-python-project-skeleton/blob/main/.github/workflows/release.yaml>) on PiPy.
 
 
-<a id="org6b6d8e8"></a>
+<a id="org915b25a"></a>
 
 ## Getting Started
 
@@ -62,7 +61,7 @@ Use this template directly to [create a new GitHub repository](<https://github.c
 This way you can also pull the latest version from upstream and `checkout` the new files you would like to use in your project.
 
 
-<a id="org21da8c1"></a>
+<a id="orgf73ca0a"></a>
 
 ### Installation
 
@@ -71,21 +70,21 @@ This package is available on [PyPI](https://pypi.org/project/minimal-python-proj
     pip install minimal_python_project_skeleton
 
 
-<a id="org19ccf8c"></a>
+<a id="orgcae31e8"></a>
 
 ## Contributing
 
 Any Contributions are greatly appreciated! If you have a question, an issue or would like to contribute, please read our [contributing guidelines](CONTRIBUTING.md).
 
 
-<a id="org0045bae"></a>
+<a id="org236d2b4"></a>
 
 ## License
 
 Distributed under the [MIT License](LICENSE)
 
 
-<a id="org7761778"></a>
+<a id="org901b7c6"></a>
 
 ## Contact
 
@@ -95,7 +94,7 @@ Project Link:
 <https://github.com/MArpogaus/python-project-skeleton>
 
 
-<a id="org588cc56"></a>
+<a id="org935ff24"></a>
 
 ## Acknowledgments
 
