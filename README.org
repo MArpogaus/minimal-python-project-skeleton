@@ -75,7 +75,7 @@ Distributed under the [[file:LICENSE][MIT License]]
 
 ** Contact
 
-[[https://github.com/MArpogaus/][Marcel Arpogaus]] - [[mailto:znepry.necbtnhf@tznvy.pbz][znepry.necbtnhf@tznvy.pbz]]
+[[https://github.com/MArpogaus/][Marcel Arpogaus]] - [[mailto:znepry.necbtnhf@tznvy.pbz][znepry.necbtnhf@tznvy.pbz]] (encrypted with [ROT13](https://rot13.com/))
 
 Project Link:
 [[https://github.com/MArpogaus/python-project-skeleton]]

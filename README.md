@@ -13,16 +13,16 @@
 
 # Minimal Python Project Skeleton
 
-1.  [About The Project](#orge8b336c)
-2.  [Getting Started](#org3a3e9bd)
-    1.  [Installation](#org7fb0982)
-3.  [Contributing](#org4f21ece)
-4.  [License](#orgdbd810b)
-5.  [Contact](#org50c2bd2)
-6.  [Acknowledgments](#org1a49437)
+1.  [About The Project](#org7412b7d)
+2.  [Getting Started](#org6b6d8e8)
+    1.  [Installation](#org21da8c1)
+3.  [Contributing](#org19ccf8c)
+4.  [License](#org0045bae)
+5.  [Contact](#org7761778)
+6.  [Acknowledgments](#org588cc56)
 
 
-<a id="orge8b336c"></a>
+<a id="org7412b7d"></a>
 
 ## About The Project
 
@@ -52,7 +52,7 @@ This folder structure should act as a simple starting point for your next python
 It contains just the minimum to get you started with a ready configured GitHub actions for automated [linting](<https://github.com/MArpogaus/minimal-python-project-skeleton/blob/main/.github/workflows/pre-commit.yaml>), [testing](<https://github.com/MArpogaus/minimal-python-project-skeleton/blob/main/.github/workflows/test.yaml>), and [releasing](<https://github.com/MArpogaus/minimal-python-project-skeleton/blob/main/.github/workflows/release.yaml>) on PiPy.
 
 
-<a id="org3a3e9bd"></a>
+<a id="org6b6d8e8"></a>
 
 ## Getting Started
 
@@ -62,7 +62,7 @@ Use this template directly to [create a new GitHub repository](<https://github.c
 This way you can also pull the latest version from upstream and `checkout` the new files you would like to use in your project.
 
 
-<a id="org7fb0982"></a>
+<a id="org21da8c1"></a>
 
 ### Installation
 
@@ -71,31 +71,31 @@ This package is available on [PyPI](https://pypi.org/project/minimal-python-proj
     pip install minimal_python_project_skeleton
 
 
-<a id="org4f21ece"></a>
+<a id="org19ccf8c"></a>
 
 ## Contributing
 
 Any Contributions are greatly appreciated! If you have a question, an issue or would like to contribute, please read our [contributing guidelines](CONTRIBUTING.md).
 
 
-<a id="orgdbd810b"></a>
+<a id="org0045bae"></a>
 
 ## License
 
 Distributed under the [MIT License](LICENSE)
 
 
-<a id="org50c2bd2"></a>
+<a id="org7761778"></a>
 
 ## Contact
 
-[Marcel Arpogaus](https://github.com/MArpogaus/) - [znepry.necbtnhf@tznvy.pbz](mailto:znepry.necbtnhf@tznvy.pbz)
+[Marcel Arpogaus](https://github.com/MArpogaus/) - [znepry.necbtnhf@tznvy.pbz](mailto:znepry.necbtnhf@tznvy.pbz) (encrypted with [ROT13](<https://rot13.com/>))
 
 Project Link:
 <https://github.com/MArpogaus/python-project-skeleton>
 
 
-<a id="org1a49437"></a>
+<a id="org588cc56"></a>
 
 ## Acknowledgments
 
