@@ -7,6 +7,7 @@
 [[https://github.com/MArpogaus/python-project-skeleton/issues][https://img.shields.io/github/issues/MArpogaus/python-project-skeleton.svg?style=flat-square]]
 [[https://github.com/MArpogaus/python-project-skeleton/blob/main/LICENSE][https://img.shields.io/github/license/MArpogaus/python-project-skeleton.svg?style=flat-square]]
 [[https://github.com/MArpogaus/python-project-skeleton/actions/workflows/test.yaml][https://img.shields.io/github/actions/workflow/status/MArpogaus/python-project-skeleton/test.yaml.svg?label=test&style=flat-square]]
+[[https://github.com/MArpogaus/python-project-skeleton/actions/workflows/release.yaml][https://img.shields.io/github/actions/workflow/status/MArpogaus/python-project-skeleton/release.yaml.svg?label=release&style=flat-square]]
 [[https://github.com/MArpogaus/python-project-skeleton/blob/main/.pre-commit-config.yaml][https://img.shields.io/badge/pre--commit-enabled-brightgreen.svg?logo=pre-commit&style=flat-square]]
 [[https://linkedin.com/in/MArpogaus][https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555]]
 

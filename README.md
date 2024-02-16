@@ -4,6 +4,7 @@
 [![img](https://img.shields.io/github/issues/MArpogaus/python-project-skeleton.svg?style=flat-square)](https://github.com/MArpogaus/python-project-skeleton/issues)
 [![img](https://img.shields.io/github/license/MArpogaus/python-project-skeleton.svg?style=flat-square)](https://github.com/MArpogaus/python-project-skeleton/blob/main/LICENSE)
 [![img](https://img.shields.io/github/actions/workflow/status/MArpogaus/python-project-skeleton/test.yaml.svg?label=test&style=flat-square)](https://github.com/MArpogaus/python-project-skeleton/actions/workflows/test.yaml)
+[![img](https://img.shields.io/github/actions/workflow/status/MArpogaus/python-project-skeleton/release.yaml.svg?label=release&style=flat-square)](https://github.com/MArpogaus/python-project-skeleton/actions/workflows/release.yaml)
 [![img](https://img.shields.io/badge/pre--commit-enabled-brightgreen.svg?logo=pre-commit&style=flat-square)](https://github.com/MArpogaus/python-project-skeleton/blob/main/.pre-commit-config.yaml)
 [![img](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://linkedin.com/in/MArpogaus)
 
@@ -12,16 +13,16 @@
 
 # Minimal Python Project Skeleton
 
-1.  [About The Project](#org6f62e8e)
-2.  [Getting Started](#orgee5d15d)
-    1.  [Installation](#orgc2cc14f)
-3.  [Contributing](#org7a2117b)
-4.  [License](#org8214d5f)
-5.  [Contact](#orge7c5b87)
-6.  [Acknowledgments](#org06a507d)
+1.  [About The Project](#orge8b336c)
+2.  [Getting Started](#org3a3e9bd)
+    1.  [Installation](#org7fb0982)
+3.  [Contributing](#org4f21ece)
+4.  [License](#orgdbd810b)
+5.  [Contact](#org50c2bd2)
+6.  [Acknowledgments](#org1a49437)
 
 
-<a id="org6f62e8e"></a>
+<a id="orge8b336c"></a>
 
 ## About The Project
 
@@ -51,7 +52,7 @@ This folder structure should act as a simple starting point for your next python
 It contains just the minimum to get you started with a ready configured GitHub actions for automated [linting](<https://github.com/MArpogaus/minimal-python-project-skeleton/blob/main/.github/workflows/pre-commit.yaml>), [testing](<https://github.com/MArpogaus/minimal-python-project-skeleton/blob/main/.github/workflows/test.yaml>), and [releasing](<https://github.com/MArpogaus/minimal-python-project-skeleton/blob/main/.github/workflows/release.yaml>) on PiPy.
 
 
-<a id="orgee5d15d"></a>
+<a id="org3a3e9bd"></a>
 
 ## Getting Started
 
@@ -61,7 +62,7 @@ Use this template directly to [create a new GitHub repository](<https://github.c
 This way you can also pull the latest version from upstream and `checkout` the new files you would like to use in your project.
 
 
-<a id="orgc2cc14f"></a>
+<a id="org7fb0982"></a>
 
 ### Installation
 
@@ -70,21 +71,21 @@ This package is available on [PyPI](https://pypi.org/project/minimal-python-proj
     pip install minimal_python_project_skeleton
 
 
-<a id="org7a2117b"></a>
+<a id="org4f21ece"></a>
 
 ## Contributing
 
 Any Contributions are greatly appreciated! If you have a question, an issue or would like to contribute, please read our [contributing guidelines](CONTRIBUTING.md).
 
 
-<a id="org8214d5f"></a>
+<a id="orgdbd810b"></a>
 
 ## License
 
 Distributed under the [MIT License](LICENSE)
 
 
-<a id="orge7c5b87"></a>
+<a id="org50c2bd2"></a>
 
 ## Contact
 
@@ -94,7 +95,7 @@ Project Link:
 <https://github.com/MArpogaus/python-project-skeleton>
 
 
-<a id="org06a507d"></a>
+<a id="org1a49437"></a>
 
 ## Acknowledgments
 
