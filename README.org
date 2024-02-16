@@ -82,4 +82,5 @@ Project Link:
 ** Acknowledgments
 
 - README inspired by [[https://github.com/othneildrew/Best-README-Template][othneildrew/Best-README-Template]]
-- Contribution guidelines inspired by [[https://github.com/probabilists/zuko/][probabilists/zuko:]]
+- Contribution guidelines inspired by [[https://github.com/probabilists/zuko/][probabilists/zuko]]
+- Release workflow inspired by [[https://packaging.python.org/en/latest/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/][packaging.python.org]]
