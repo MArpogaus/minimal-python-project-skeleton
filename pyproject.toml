@@ -52,3 +52,6 @@ target-version = "py37"
 select = ["I", "E", "F"]
 
 [tool.setuptools_scm]
+# https://stackoverflow.com/a/74404703
+# omits local version, useful because pypi does not support it
+local_scheme = "no-local-version"
