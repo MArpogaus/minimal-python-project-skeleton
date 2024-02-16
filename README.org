@@ -7,6 +7,7 @@
 [[https://github.com/MArpogaus/python-project-skeleton/issues][https://img.shields.io/github/issues/MArpogaus/python-project-skeleton.svg?style=flat-square]]
 [[https://github.com/MArpogaus/python-project-skeleton/blob/main/LICENSE][https://img.shields.io/github/license/MArpogaus/python-project-skeleton.svg?style=flat-square]]
 [[https://github.com/MArpogaus/python-project-skeleton/actions/workflows/test.yaml][https://img.shields.io/github/actions/workflow/status/MArpogaus/python-project-skeleton/test.yaml.svg?label=test&style=flat-square]]
+[[https://github.com/MArpogaus/python-project-skeleton/actions/workflows/release.yaml][https://img.shields.io/github/actions/workflow/status/MArpogaus/python-project-skeleton/release.yaml.svg?label=release&style=flat-square]]
 [[https://github.com/MArpogaus/python-project-skeleton/blob/main/.pre-commit-config.yaml][https://img.shields.io/badge/pre--commit-enabled-brightgreen.svg?logo=pre-commit&style=flat-square]]
 [[https://linkedin.com/in/MArpogaus][https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555]]
 
@@ -74,7 +75,7 @@ Distributed under the [[file:LICENSE][MIT License]]
 
 ** Contact
 
-[[https://github.com/MArpogaus/][Marcel Arpogaus]] - [[mailto:znepry.necbtnhf@tznvy.pbz][znepry.necbtnhf@tznvy.pbz]]
+[[https://github.com/MArpogaus/][Marcel Arpogaus]] - [[mailto:znepry.necbtnhf@tznvy.pbz][znepry.necbtnhf@tznvy.pbz]] (encrypted with [ROT13](https://rot13.com/))
 
 Project Link:
 [[https://github.com/MArpogaus/python-project-skeleton]]
@@ -82,4 +83,5 @@ Project Link:
 ** Acknowledgments
 
 - README inspired by [[https://github.com/othneildrew/Best-README-Template][othneildrew/Best-README-Template]]
-- Contribution guidelines inspired by [[https://github.com/probabilists/zuko/][probabilists/zuko:]]
+- Contribution guidelines inspired by [[https://github.com/probabilists/zuko/][probabilists/zuko]]
+- Release workflow inspired by [[https://packaging.python.org/en/latest/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/][packaging.python.org]]

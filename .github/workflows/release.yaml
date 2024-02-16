@@ -100,7 +100,7 @@ jobs:
 
     environment:
       name: testpypi
-      url: https://test.pypi.org/p/minimal-python-project-skeleton
+      url: https://test.pypi.org/p/minimal-python-project-skeleton  # TODO: Replace with your TestPyPI project name
 
     permissions:
       id-token: write  # IMPORTANT: mandatory for trusted publishing
