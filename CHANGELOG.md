@@ -1,0 +1,7 @@
+## v0.0.2 (2024-02-16)
+
+### Refactor
+
+- flatten folder structure
+
+## v0.0.1 (2024-02-16)
