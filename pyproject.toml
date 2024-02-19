@@ -27,13 +27,19 @@ develop = [
   'python-lsp-server[all]',
   'ruff'
 ]
+docs = [
+  'pdoc'
+]
 test = [
   'pytest',
   'pytest-xdist'
 ]
 
 [project.urls]
-Homepage = "https://github.com/MArpogaus/minimal-python-project-skeleton"  # TODO: Change project homepage
+Changelog = "https://github.com/MArpogaus/minimal_python_project_skeleton/blob/dev/CHANGELOG.md"  # TODO: Change project repo
+Documentation = "https://marpogaus.github.io/minimal_python_project_skeleton"  # TODO: Change project repo
+Issues = "https://github.com/MArpogaus/minimal_python_project_skeleton/issues"  # TODO: Change project repo
+Repository = "https://github.com/MArpogaus/minimal_python_project_skeleton"  # TODO: Change project repo
 
 [tool.commitizen]
 major_version_zero = true
@@ -52,3 +58,6 @@ target-version = "py37"
 select = ["I", "E", "F"]
 
 [tool.setuptools_scm]
+# https://stackoverflow.com/a/74404703
+# omits local version, useful because pypi does not support it
+local_scheme = "no-local-version"

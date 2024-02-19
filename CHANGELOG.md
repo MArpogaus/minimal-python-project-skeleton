@@ -1,3 +1,13 @@
+## v0.2.0 (2024-02-19)
+
+### Feat
+
+- add to build documentation with pdoc and deploy to gh pages
+
+### Refactor
+
+- rename func -> increment
+
 ## v0.1.1 (2024-02-16)
 
 ### Fix
